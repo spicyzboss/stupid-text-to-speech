@@ -8,9 +8,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "MIT",
-  "dependencies": {
-    "express": "^4.17.1",
-    "xp.css": "^0.2.4"
-  }
+  "license": "MIT"
 }
